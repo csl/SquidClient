@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="hello">Hello SquidClient</string> 
+  <string name="app_name">SquidClient</string>
+  
+  <string name="menu_start">開始使用</string>
+	<string name="menu_exit">帶我離開</string> 
+	
+	<string name="msg_exit">離開!</string>
+  <string name="str_exit_msg">確定結束程式?!</string>
+  <string name="str_exit_no">取消</string>
+ <string name="str_exit_ok">確認離開</string>
+ 
+ <!-- 標題 -->
+ 	<string name="start_con">歡迎使用本程式!!!</string>
+ 
+</resources>
