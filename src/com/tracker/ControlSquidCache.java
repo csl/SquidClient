@@ -93,7 +93,7 @@ public class ControlSquidCache extends Activity
     super.onCreate(icicle); 
     setContentView(R.layout.main2); 
     
-    IPAddress = "192.168.123.100";
+    IPAddress = "192.168.6.51";
     
     //Checking Status
     if (CheckInternet(3))
